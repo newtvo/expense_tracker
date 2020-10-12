@@ -12,5 +12,3 @@ npm start
 # Build for prod
 npm run build
 ```
-
->>>>>>> 9eb489e75fcbeb271f442274f4a17e729b931215
